@@ -12,6 +12,8 @@
 
 [1]: https://www.linkedin.com/in/krishna-singh1
 [2]: https://www.github.com/krishna-singh1
+[3]: https://leetcode.com/itskrrish/
+
 
 
 
@@ -28,6 +30,8 @@ Hi, I'm Krishna — a **software engineer** at **Paytm** building some real stuf
 
 [![linkedin KrishnaSingh][1.1]][1]
 [![github KrishnaSingh][2.1]][2]
+[![github KrishnaSingh][3.1]][3]
+
 
 
 <!-- section - social media icons -->
