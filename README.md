@@ -20,7 +20,7 @@
 # ❤ to Build - Software Engineer & Enthusiast!
 
 
-Hi, I'm Krishna — a **software engineer** at **Delhivery** building some real stuff through code & Coffee. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship and space. ✌💖
+Hi, I'm Krishna — a **software engineer** at **Paytm** building some real stuff through code & Coffee. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship and space. ✌💖
 
 <!-- section - intro -->
 
@@ -47,6 +47,8 @@ REST Api . GraphQL .  Junit . Mockito . Postgresql . Cassandra . Redis . Jenkins
 <!-- section - job details -->
 
 ## On the job .. 💯
+
+> Software Engineer - [**Paytm**](https://www.paytm.com/about/)  ⭐
 
 > Software Engineer - [**Delhivery**](https://www.delhivery.com/about/)  ⭐
 
