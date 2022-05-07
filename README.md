@@ -7,12 +7,13 @@
 
 [1.1]: https://github.com/krishna-singh1/krishnasingh/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
 [2.1]: https://github.com/krishna-singh1/krishnasingh/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
+[3.1]: https://github.com/krishna-singh1/krishnasingh/blob/master/assets/icons/LeetCode.png (github icon with padding)
 
 <!-- links to my social media accounts -->
 
 [1]: https://www.linkedin.com/in/krishna-singh1
 [2]: https://www.github.com/krishna-singh1
-[3]: https://leetcode.com/itskrrish/
+[3]: https://leetcode.com/itskrrish
 
 
 
@@ -30,7 +31,7 @@ Hi, I'm Krishna — a **software engineer** at **Paytm** building some real stuf
 
 [![linkedin KrishnaSingh][1.1]][1]
 [![github KrishnaSingh][2.1]][2]
-[![github KrishnaSingh][3.1]][3]
+[![leetcode KrishnaSingh][3.1]][3]
 
 
 
