@@ -53,7 +53,7 @@ REST Api . GraphQL .  Junit . Mockito . Postgresql . Cassandra . Redis . Jenkins
 
 ## On the job .. 💯
 
-> Software Engineer - [**Paytm**](https://www.paytm.com/about/)  ⭐
+> Software Engineer - [**Paytm**](https://www.paytm.com/about/)  |IoTfying Payments|⭐
 
 > Software Engineer - [**Delhivery**](https://www.delhivery.com/about/)  
 
