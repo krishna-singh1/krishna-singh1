@@ -50,9 +50,9 @@ REST Api . GraphQL .  Junit . Mockito . Postgresql . Cassandra . Redis . Jenkins
 
 > Software Engineer - [**Paytm**](https://www.paytm.com/about/)  ⭐
 
-> Software Engineer - [**Delhivery**](https://www.delhivery.com/about/)  ⭐
+> Software Engineer - [**Delhivery**](https://www.delhivery.com/about/)  
 
-> Software Engineer - [**Tavisca (Division of JP Morgan Chase & Co.)**](https://www.tavisca.com/)  ⭐
+> Software Engineer - [**Tavisca (Division of JP Morgan Chase & Co.)**](https://www.tavisca.com/)  
 
 
 
