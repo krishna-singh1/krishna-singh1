@@ -7,7 +7,7 @@
 
 [1.1]: https://github.com/krishna-singh1/krishnasingh/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
 [2.1]: https://github.com/krishna-singh1/krishnasingh/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/krishna-singh1/krishnasingh/blob/master/assets/icons/LeetCode.png (github icon with padding)
+[3.1]: https://github.com/krishna-singh1/krishnasingh/blob/master/assets/icons/LeetCode.png
 
 <!-- links to my social media accounts -->
 
@@ -88,6 +88,7 @@ Thanks for reading about me. You can connect with me on ..
 
 [![linkedin krishna-singh1][1.1]][1]
 [![github krishna-singh1][2.1]][2]
+[![leetcode KrishnaSingh][3.1]][3]
 <!-- section - social media icons -->
 
 <p align='center'>
